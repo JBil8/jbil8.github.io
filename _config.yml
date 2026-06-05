@@ -103,7 +103,9 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 # url-pretty: "jacopobilotto.com"
 
-url: "https://jbil8.github.io/"
+url: "https://jbil8.github.io"
+
+baseurl: ""
 
 description: "Personal website, portfolio, and research blog of Jacopo Bilotto."
 
