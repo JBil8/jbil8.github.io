@@ -101,7 +101,11 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jacopobilotto.com"
+# url-pretty: "jacopobilotto.com"
+
+url: "https://jbil8.github.io/"
+
+description: "Personal website, portfolio, and research blog of Jacopo Bilotto."
 
 # Add the website title to the title of every page
 title-on-all-pages: true
