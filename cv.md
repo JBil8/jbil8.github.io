@@ -29,7 +29,9 @@ To address complex engineering and physical challenges, I employ different compu
 ## Professional Experience
 
 `2023 – 2027` **Food processing:**@[Bühler AG](https://www.buhlergroup.com/global/de/homepage.html) collaboration to optimize industrial grain processing, Uzwil, Switzerland.
+
 `2022` **Semiconductors:**@[ASML](https://www.asml.com/en) research within the Tribology and Surface Science group, Eindhoven, Netherlands.
+
 `2021` **Research internships:** @ [INFN](https://www.infn.it/en/) (National Institute of Nuclear Physics in Italy) and @[EPFL Excellence in Engineering (E3)](https://eee.epfl.ch/)
 
 ---
@@ -38,7 +40,7 @@ To address complex engineering and physical challenges, I employ different compu
 
 `2023 – 2026` [**LauzHack:**](https://lauzhack.com/) I was part of the committee, helping grow one of Switzerland's largest student hackathons.
 
-`2024 – 2027` **Mechanics Gathering Seminar (MEGA):** I am one of the lead organizers of this weekly seminar, which fosters a collaborative environment for early-career researchers.
+`2024 – 2027` [**Mechanics Gathering Seminar (MEGA):**](https://memento.epfl.ch/mega-seminar/?keywords=&period=365&date=2025-01-01&filter=Filter) I am one of the lead organizers of this weekly seminar, which fosters a collaborative environment for early-career researchers.
 
 ### Science Communication
 
