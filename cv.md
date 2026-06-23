@@ -7,20 +7,11 @@ title: Curriculum Vitae
 
 ## Education
 
-**Ph.D. in Mechanics (EDME)** | Mar 2023 – Feb 2027 (Expected)
-*EPFL, École Polytechnique Fédérale de Lausanne, Switzerland*
+`Mar 2023 – Feb 2027 (expected)` **Ph.D. in Mechanics (Computational Science)** @*EPFL*,Lausanne, Switzerland
 
-* **Thesis:** The effect of shape in granular flows and asperity (lubricated) contacts
-* **Advisor:** Prof. Jean-François Molinari
-* **Fellowship:** MSCA GlobaLeaders Fellowship
+`2017 – 2023` **M.S. & B.S. in Mechanical Engineering** @ *Sapienza*, Rome, Italy
 
-**M.S. & B.S. in Mechanical Engineering** | 2017 – 2023
-*Sapienza, University of Rome, Italy*
-* **Specialization:** Computational and Applied Mathematics
-  
-**Global Studies & Fundamentals of Business** | 2017 – 2022
-*University College Lamaro Pozzani, Rome, Italy*
-Multi-disciplinary program covering Game theory, Economic theory, and Political systems
+`2017 – 2022` **Global Studies & Fundamentals of Business**@*University College Lamaro Pozzani*, Rome, Italy
  
 ---
 
@@ -30,28 +21,24 @@ To address complex engineering and physical challenges, I employ different compu
 
 * **High-Performance Computing (HPC):** I use large-scale simulations (LAMMPS, Tamaas, Jax) to explore fundamental physics in granular flows and contact mechanics.
 * **Surrogate & ML Modeling:** I integrate data-driven methodologies, such as Gaussian Process Regression (GPR), differentiable physics, and neural networks, to build efficient models.
-* **Continuum and discrete mechanics**
+* **Predictive Modeling of Complex Systems**: I design mathematically grounded models (continuum field theories, discrete element methods) to predict emergent behavior in granular materials and contact mechanics, bridging theory and computation.
 
 
 ---
 
 ## Professional Experience
 
-My perspective has been shaped by diverse international and industrial collaborations:
-
-* **Food processing:** I take part in a project with [**Bühler AG**](https://www.buhlergroup.com/global/de/homepage.html) to optimize industrial grain processing. 
-* **Semiconductors:** Conducted research at [**ASML**](https://www.asml.com/en) within the Tribology and Surface Science group (Eindhoven, 2022).
-* **Research internships:** Held research positions at the National Institute of Nuclear Physics ([**INFN**](https://www.infn.it/en/)) in Italy and participated in the [**EPFL Excellence in Engineering (E3)**](https://eee.epfl.ch/) program.
+`2023 – 2027` **Food processing:**@[Bühler AG](https://www.buhlergroup.com/global/de/homepage.html) collaboration to optimize industrial grain processing, Uzwil, Switzerland.
+`2022` **Semiconductors:**@[ASML](https://www.asml.com/en) research within the Tribology and Surface Science group, Eindhoven, Netherlands.
+`2021` **Research internships:** @ [INFN](https://www.infn.it/en/) (National Institute of Nuclear Physics in Italy) and @[EPFL Excellence in Engineering (E3)](https://eee.epfl.ch/)
 
 ---
 
 ## Leadership & Outreach
 
-Beyond the terminal, I am active in the EPFL ecosystem. 
+`2023 – 2026` [**LauzHack:**](https://lauzhack.com/) I was part of the committee, helping grow one of Switzerland's largest student hackathons.
 
-* [**LauzHack:**](https://lauzhack.com/) I have spent three years on the committee, helping grow one of Switzerland's largest student hackathons.
-
-* **Mechanics Gathering Seminar (MEGA):** I am one of the lead organizers of this weekly seminar, which fosters a collaborative environment for early-career researchers.
+`2024 – 2027` **Mechanics Gathering Seminar (MEGA):** I am one of the lead organizers of this weekly seminar, which fosters a collaborative environment for early-career researchers.
 
 ### Science Communication
 

@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Jacopo Bilotto
-subtitle: Bridging fundamental mechanics with data-driven engineering 
+subtitle: PhD student in mechanical and data-driven engineering 
 ---
 
 I am a Doctoral Assistant at **EPFL** in Lausanne, currently in the final year of my Ph.D. within the [Laboratory of Computational Solid Mechanics](https://www.epfl.ch/labs/lsms/). 
-My research, supported by the [MSCA GlobaLeaders Fellowship](https://www.epfl.ch/education/phd/doctoral-studies-structure/customized-curricula/epflglobaleaders/), focuses on the intersections of granular physics, tribology, and soft matter.
+My research, supported by the [MSCA GlobaLeaders Fellowship](https://www.epfl.ch/education/phd/doctoral-studies-structure/customized-curricula/epflglobaleaders/), focuses on the intersections of granular physics, soft matter, and tribology.
 
-I have worked in the semiconductor and food processing industries, primarily using advanced simulations and data-driven modeling. Whether in fundamental physics or industrial R&D, my motivation remains the same: I enjoy dissecting hard problems and engineering efficient (computational) solutions that work in a real setting.
+I have experience in the semiconductor and food processing industries, primarily using advanced simulations and data-driven modeling. Whether in fundamental science or industrial R&D, my motivation remains the same: I enjoy dissecting hard problems and engineering efficient (computational) solutions that work in a real setting.
 
 ---
 
