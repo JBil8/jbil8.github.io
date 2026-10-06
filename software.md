@@ -11,8 +11,11 @@ Contributed, with Jibril B. Coulibaly, to extend lammps DEM capabilities to [sup
 ### Frictional metasurfaces
 ML framework for inverse design of frictional surfaces [[code](https://github.com/JBil8/frictional_metasurfaces_inverse_design)]
 
+### JAX elastohydrodynamic impacz
+JAX code for GPU-accelerated simulations of soft solid cushioned impacts [[code](https://github.com/jgarciasuarez/gpu-ehl-rest-coeff)]
+
 ### JAX elastohydrodynamic lubrication
-JAX code for GPU-accelerated simulations of soft solid cushioned impacts [[available soon]()]
+JAX code for GPU-accelerated simulations of soft solid lubrication and inverse design for up to 268 million DOFs [[available soon]()]
 
 ---
 

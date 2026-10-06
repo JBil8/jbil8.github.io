@@ -6,13 +6,13 @@ title: Research
 ## Publications
 
 ### Inverse Design of Metainterfaces for Static Friction Control: Beyond the Hertzian Limit (2026)
-*arXiv, 2605.11012*
+*Tribology Letters, accepted*
 
 ![enf2enf paper cover](/assets/img/overview_inverse_design.png){: width="600px" }
 
 **Abstract:** Programming the static friction of mechanical interfaces is critical for soft robotics, haptics, and precision gripping. Static friction is governed by the real contact area, and standard rough surfaces exhibit a linear area-load scaling inherent to classical Archard and Greenwood-Williamson models, severely restricting their functional range. Here, we propose a framework for the inverse design of tribological metainterfaces engineered for programmable contact behaviors. By utilizing general axisymmetric asperities, we unlock nonlinear macroscopic responses unattainable by standard Hertzian contacts. To solve the inverse problem, we embed a fully differentiable contact mechanics engine within a neural network ...  [shortened for brevity]
 
-[Paper PDF](https://arxiv.org/pdf/2603.25252) | [Code]([available soon](https://github.com/JBil8/frictional_metasurfaces_inverse_design))
+[Paper PDF](https://arxiv.org/pdf/2603.25252) | [Code](https://github.com/JBil8/frictional_metasurfaces_inverse_design)
 
 ### Mapping the limits of equilibrium in sheared granular liquid crystals (2026)
 *arXiv, 2603.25252*

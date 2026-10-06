@@ -30,7 +30,7 @@ Experimental fluid mechanics class.
 
 ## Project supervision
 
-- **GNS for momentum conserving granular simulations**, Sarah Maitournam (M.S. thesis, ENSTA Paris), Spring-Summer 2026
+- **Graph Network Simulators for momentum conserving granular simulations**, Sarah Maitournam (M.S. thesis, ENSTA Paris), Spring-Summer 2026
 - **Fluid mediated impact of soft solids of revolution** Clementine Baudou & Inacio Vieira (B.S. project, EPFL), co-supervised with J. Garcia-Suarez, Spring 2026 
 - **Modeling of granular comminution under shear using DEM simulation** Loïc Unternährer (M.S. project and thesis, EPFL), co-supervised with Yamaguchi's lab at UTokyo, Spring & Fall 2025 
 - **Multiasperity contacts and design**, Arnav Singhal (B.S. intern, Brown University), co-supervised with Gaetan Cortes, Summer 2025  

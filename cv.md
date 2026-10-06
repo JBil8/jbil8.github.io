@@ -9,7 +9,7 @@ title: Curriculum Vitae
 
 `Mar 2023 – Feb 2027 (expected)` **Ph.D. in Mechanics (Computational Science)** @*EPFL*,Lausanne, Switzerland
 
-`2017 – 2023` **M.S. & B.S. in Mechanical Engineering** @ *Sapienza*, Rome, Italy
+`2017 – 2023` **M.S. & B.S. in Mechanical Engineering (Applied Mathematics)** @ *Sapienza*, Rome, Italy
 
 `2017 – 2022` **Global Studies & Fundamentals of Business**@*University College Lamaro Pozzani*, Rome, Italy
  
@@ -19,9 +19,9 @@ title: Curriculum Vitae
 
 To address complex engineering and physical challenges, I employ different computational and mathematical approaches:
 
-* **High-Performance Computing (HPC):** I use large-scale simulations (LAMMPS, Tamaas, Jax) to explore fundamental physics in granular flows and contact mechanics.
+* **High-Performance Computing (HPC):** I use large-scale simulations (LAMMPS, JAX, Tamaas) to explore fundamental physics in granular flows and contact mechanics.
 * **Surrogate & ML Modeling:** I integrate data-driven methodologies, such as Gaussian Process Regression (GPR), differentiable physics, and neural networks, to build efficient models.
-* **Predictive Modeling of Complex Systems**: I design mathematically grounded models (continuum field theories, discrete element methods) to predict emergent behavior in granular materials and contact mechanics, bridging theory and computation.
+* **Predictive Modeling of Complex Systems**: I design mathematically grounded models (continuum field theories, statistical physics) to predict emergent behavior in granular materials and contact mechanics, bridging theory and computation.
 
 
 ---
