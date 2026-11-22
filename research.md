@@ -6,25 +6,24 @@ title: Research
 ## Publications
 
 ### Inverse Design of Metainterfaces for Static Friction Control: Beyond the Hertzian Limit (2026)
-*Tribology Letters, accepted*
+*Tribology Letters, vol 74, 128*
 
 ![enf2enf paper cover](/assets/img/overview_inverse_design.png){: width="600px" }
 
 Proved how neural networks with contact mechanics in the loop can help us engineer frictional properties of interfaces.
 
-[Paper PDF](https://arxiv.org/pdf/2603.25252) | [Code](https://github.com/JBil8/frictional_metasurfaces_inverse_design)
+[Paper PDF](https://link.springer.com/article/10.1007/s11249-026-02210-4#citeas) | [Code](https://github.com/JBil8/frictional_metasurfaces_inverse_design)
 
 ### Mapping the limits of equilibrium in sheared granular liquid crystals (2026)
-*arXiv, 2603.25252*
+*Physical Review Research, 8, 043151*
 
 ![enf2enf paper cover](/assets/img/equilibrium_jeffery.png){: width="600px" }
 
 Bridged the gap between thermal statistical physics and granular flows, uncovering similarities and differencies.
 
-[Paper PDF](https://arxiv.org/pdf/2603.25252) | [Code](available soon) | [Data](available soon)  
+[Paper PDF](https://journals.aps.org/prresearch/abstract/10.1103/cjdt-6d9p) | [Code](https://github.com/JBil8/Data_processing_orientations) | [Data](https://doi.org/10.5281/zenodo.23163286)  
 
-
-<!-- ### Shear Flow of Frictional Spheroids: comparison between elongated and flattened particles (2025)
+### Shear Flow of Frictional Spheroids: comparison between elongated and flattened particles (2025)
 *Physical Review E, 112, 045432*
 
 ![enf2enf paper cover](/assets/img/figure_1_rheology.png){: width="600px" }
@@ -33,14 +32,11 @@ How does shape influence dense granular flows? Shown different behaviors of lent
 
 [Paper PDF](https://arxiv.org/pdf/2507.04429) | [Code](https://github.com/JBil8/Simple_shear_granular_spheroids.git.) | [Data](https://zenodo.org/doi/10.5281/zenodo.15798936)  
 
-### Numerical study of simple shear dense granular flow of frictional elongated and flattened particles (2025)
+<!-- ### Numerical study of simple shear dense granular flow of frictional elongated and flattened particles (2025)
 *Powder & Grains 2025, conference Proceedings*
 
 ![Paper ](/assets/img/pdf_thetax_cof_0.4_I_0.01_plus_sketch_ellipsoids.png){: width="400px" }
- -->
-
-
-[Paper PDF](https://arxiv.org/abs/2505.14704) 
+[Paper PDF](https://arxiv.org/abs/2505.14704)  -->
 
 ### Fluid-mediated Impact of Soft Solids (2024)
 *Journal of Fluid Mechanics, Vol. 997, A35*

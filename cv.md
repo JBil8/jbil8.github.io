@@ -19,9 +19,9 @@ title: Curriculum Vitae
 
 To address complex engineering and physical challenges, I employ different computational and mathematical approaches:
 
-* **High-Performance Computing (HPC):** I use large-scale simulations (LAMMPS, JAX, Tamaas) to investigate granular flows and contact mechanics.
-* **Surrogate & ML Modeling:** I integrate data-driven methodologies, such as Gaussian Process Regression (GPR), differentiable physics, and neural networks, to optimize systems.
-* **Predictive Modeling of Complex Systems**: I design mathematically grounded models (continuum field theories, statistical physics) to predict emergent behavior in granular materials and contact mechanics, bridging theory and computation.
+* **High-Performance Computing (HPC):** I use large-scale simulations (LAMMPS, JAX, Tamaas) to investigate granular/fluid flows and contact mechanics.
+* **Surrogate & ML Modeling:** I integrate data-driven methodologies, such as Gaussian Process Regression (GPR), differentiable physics, and neural networks, to optimize systems and preocesses.
+* **Predictive Modeling of Complex Systems**: I design mathematical models (scaling analyses, statistical physics) to predict emergent behavior in granular materials and contact mechanics, bridging theory and computation.
 
 
 ---
