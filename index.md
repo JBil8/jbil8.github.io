@@ -7,7 +7,8 @@ subtitle: PhD student in mechanical and data-driven engineering
 I am a Doctoral Researcher at **EPFL** in Lausanne, currently in the final year of my Ph.D. within the [Laboratory of Computational Solid Mechanics](https://www.epfl.ch/labs/lsms/). 
 My research, supported by the [MSCA GlobaLeaders Fellowship](https://www.epfl.ch/education/phd/doctoral-studies-structure/customized-curricula/epflglobaleaders/), focuses on the numerical modelling of granular flows, lubricated contacts, and inverse design.
 
-I have experience in the semiconductor and food processing industries, primarily using advanced simulations and data-driven modeling. Whether in fundamental science or industrial R&D, my motivation remains the same: I enjoy dissecting hard problems and engineering efficient (computational) solutions that work in a real setting.
+I have experience in the semiconductor ([ASML](https://www.asml.com/)) and food processing ([Bühler](https://www.buhlergroup.com/)) industries, primarily using advanced simulations and data-driven modeling.
+In both science and engineering, I enjoy dissecting hard problems and engineering efficient (computational) solutions that work in a real setting.
 
 ---
 
